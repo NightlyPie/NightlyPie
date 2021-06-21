@@ -1,6 +1,6 @@
 ### Hi there👋 I'm PiezNotAllowed's Other Account, You can call me Piez - I make random stuff on my repositories.
-## I'm a Programmer and stuff.
-- 🥅 Goal for 2021: Learn/Master Java / C# (I will mainly focus on Java)
+## I'm a Programmer and I like Pie!.
+- 🥅 Goal for 2021: Learn/Master Java, Make a game with LWJGL
 
 ### My Social Media:
 [<img align="left" alt="Piez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piewith_Z)
