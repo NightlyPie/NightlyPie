@@ -1,5 +1,5 @@
 ### Hi there👋 I'm PiezNotAllowed's Other Account, You can call me Piez - I make random stuff on my repositories.
-## I'm a Programmer and I like Pie!.
+## I'm a Programmer and I like Pie!
 - 🥅 Goal for 2021: Learn/Master Java, Make a game with LWJGL
 
 ### My Social Media:
