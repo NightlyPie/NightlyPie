@@ -13,5 +13,4 @@
 
 ### Tools:
 
-<img align="left" src="https://user-images.githubusercontent.com/64570731/109303148-ef359780-786c-11eb-8d8f-06456bc82e00.png" alt="Eclipse" width="100px">
 <img align="left" src="https://user-images.githubusercontent.com/64570731/109303367-45a2d600-786d-11eb-9547-9bb882199360.png" alt="Visual Studio Code(VSCode)" width="26px">
