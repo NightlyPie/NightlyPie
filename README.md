@@ -2,8 +2,8 @@
 
 ### Hi there👋 I'm PiezNotAllowed's Other Account, You can call me Piez - I make random stuff on my repositories.
 ## I'm a Programmer and I like Pie!
-- 🥅 Goal for 2021: Learn/Master Java, Make a game with LWJGL<br />
-- ❔ What happened to the "PiezNotAllowed" account? Well I forgot the password and the Email I'm using on that account is broken(The Email provider doesn't let me Get a mail).
+- 🥅 Goal for 2021: Learn/Master Python<br />
+- 🐧 A bit of a POWER USER
 
 ### My Social Media:
 [<img align="left" alt="Piez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/piewith_Z)
