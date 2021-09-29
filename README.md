@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piezz)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there👋 I'm PiezNotAllowed's Other Account, You can call me Piez - I make random stuff on my repositories.
+### Hi there👋 I'm Piez - I make random stuff on my repositories.
 ## I'm a Programmer and I like Pie!
 - 🥅 Goal for 2021: Learn/Master Python<br />
 - 🐧 A bit of a POWER USER
