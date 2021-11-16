@@ -3,6 +3,7 @@
 ### Hi there👋 I'm Piez - I make random stuff on my repositories.
 ## I'm a Programmer and I like Pie!
 - 🥅 Goal for 2021: Learn/Master Python<br />
+- 🥅 Goal for the future: Make a FOSS Game where it teaches you Programming languages<br />
 - 🐧 A bit of a POWER USER
 
 ### My Social Media:
@@ -14,3 +15,4 @@
 ### Tools:
 
 <img align="left" src="https://user-images.githubusercontent.com/64570731/109303367-45a2d600-786d-11eb-9547-9bb882199360.png" alt="Visual Studio Code(VSCode)" width="26px">
+<img align="left" src="https://user-images.githubusercontent.com/84755426/141926123-aa1e074a-882a-43ed-b1a5-c6447d66ccc2.png" alt="NeoVim" width="26px">
