@@ -9,7 +9,7 @@
 <br />
 
 ### My Setup Thingy:
-- I dual-boot Windows with Manjaro :(
+- btw I use Arch
 - NeoVim + [CodeArt](https://github.com/artart222/codeart)
 - Minimal VSCode with Tokyonight/Palenight Theme
 - Bash + My Config Files
