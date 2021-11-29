@@ -12,7 +12,7 @@
 - Artix + OpenRC(Systemd sucks)
 - NeoVim + [CodeArt](https://github.com/artart222/codeart)
 - Minimal VSCode with Tokyonight/Palenight Theme
-- Bash + My Config Files
+- Bash + [My Config Files](https://github.com/Piezz/dotfiles)
 
 ### Tools:
 
