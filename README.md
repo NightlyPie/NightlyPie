@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Piez - I make random stuff on my repositories.
 ## I'm a Programmer and I like Pie!
-- 🥅 Goal for 2021: Learn/Master Python/C/C#<br />
+- 🥅 Goal for 2021: Learn/Master Python/GO/Rust<br />
 - 🥅 Goal for the future: Make a FOSS RPG Game where it teaches you Programming languages<br />
 - 🐧 A bit of a POWER USER
 
