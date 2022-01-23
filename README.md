@@ -11,8 +11,7 @@
 ### My Setup Thingy:
 - Artix + OpenRC(Systemd sucks)
 - NeoVim + [CodeArt](https://github.com/artart222/codeart)
-- Minimal VSCode with Tokyonight/Palenight Theme
-- Bash + [My Config Files](https://github.com/Piezz/dotfiles)
+- Minimal VSCode with CODESTACKr Theme
 
 ### Tools:
 
