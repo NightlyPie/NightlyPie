@@ -3,7 +3,7 @@
 - 🥅 Goal for 2022: Learn/Master Python/Go/Rust<br />
 - 🥅 Goal for the future: Make a FOSS RPG Game where it teaches you Programming languages(I cannot make 3D Models, so obviously it will be a 2D Game.)<br />
 - 🐧 A bit of a POWER USER
-- ⌨ I have learned: Python, C#, Rust, Javascript, and GoLang. I'm currently focusing on Learning Rust and/or Kotlin.
+- ⌨ I have learned: Python, C#, Rust, Javascript, and GoLang. I'm currently focusing on Learning Rust and/or C++.
 
 ### no im not gonna do commisions leave me alone
 
