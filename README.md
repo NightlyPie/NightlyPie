@@ -1,17 +1,10 @@
 <h1 align="center">
-  <i> hi, welcome to my page! </i>
+  <i>Hey! I'm Nightly. Short for <a href="https://github.com/NightlyPie">NightlyPie</a>.</i>
 </h1>
-
-```sh
-[nightly@pie ~]$ ls -al
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 12:06 os/endeavouros\ x86_64
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 16:18 shell/fish\ 3.3.1
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 20:02 wm/i3-gaps
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 23:08 pronouns/he/him
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 13:23 learning/lua\ rust\ kotlin\ go\ c++\ nodejs
-drwxr-xr-x 2 nightly nightly   4096 Feb 19 10:45 hobbies/gaming\ coding\ customizing\ watching anime
--rw-r--r-- 2 nightly nightly   4096 Feb 19 04:55 aboutme.txt
-[nightly@pie ~]$ cat aboutme.txt
-sup, my name is Nightly. Specifically NightlyPie.
-I like to learn new things, and I like to customize stuff
-```
+<p align="center">
+  I'm a guy, that likes <a href="https://duckduckgo.com/?q=Pie&t=h_&iax=images&ia=images">Pie</a>.
+  <br>I also use linux. More specifically: <a href="https://endeavouros.com/">EndeavourOS</a>.
+  <br>I like to tortur- I mean invent things by coding 🙂
+  <br>I'm currently learning Lua, C++, Go, CSS and NodeJS. Why not?
+  <br>I like to watch anime, learn new things, code, <a href="https://reddit.com/r/unixporn">customizing(aka ricing)</a> and gaming.
+</p>
